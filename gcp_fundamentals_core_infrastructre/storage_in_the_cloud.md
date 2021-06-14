@@ -155,9 +155,9 @@ Cloud Spanner can scale to petabyte database sizes, while Cloud SQL is
   - full SQL support for an online transaction processing system
   - provides petabytes
   - **USE CASE**
-    - Whenever high I/O, global consistancy
+    - Whenever high I/O, global consistency
   - **BEST FOR**
-    - arge scale database applications that are larger than two terabytes; for 
+    - large scale database applications that are larger than two terabytes; for 
       example, for financial trading and e-commerce use cases.
     - large-scale database application
 - `BigQuery`
